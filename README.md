@@ -18,19 +18,21 @@ Here are some ideas to get you started:
 <!-- My Presentation -->
 My name is Vinícius (some people also call me by my middle name, Hiroshi).
 
-I'm a 22 year-old computer engineering student at Polytechnic School of the University of São Paulo.
+I'm a 22-year-old computer engineering student at Polytechnic School of the University of São Paulo.
 
-I'm also a member of the college's robotics team, the @ThundeRatz
+I'm also a member of the college's robotics team, the @ThundeRatz.
 
-In the team, I'm currently working in the Rubi software, one of our 500g sumo robots.
+As a part of the team, I'm currently working on the software for Rubi, one of our 500 g sumo robots.
 
-I also have some repositories for college studies, like this one with some algorithns [Exercicios-de-MAC0122](https://github.com/ViniHRS/Exercicios-de-MAC0122).
+I also have some repositories for my coursework, such as [Exercicios-de-MAC0122](https://github.com/ViniHRS/Exercicios-de-MAC0122), which contains some algorithns.
 
 ## Tools and Languages
 - C/C++
-- ...(learning new tools)
+- Git
+- Linux
+- Always learning new tools!
 
 ## About me
-- ⅀ math enthusiast
-- 🌌 star wars fan
-- 🤖 gundam fan
+- ⅀ Math enthusiast
+- 🌌 Star wars fan
+- 🤖 Gundam fan
